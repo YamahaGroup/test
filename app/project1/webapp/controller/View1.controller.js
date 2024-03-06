@@ -10,7 +10,7 @@ sap.ui.define([
         return Controller.extend("project1.controller.View1", {
             onInit: function () {
 
-                //git  new changes push testing 
+                //git  new changes push testing  
 
             }
         });
